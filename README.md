@@ -1,4 +1,4 @@
-# ![https://twitch.tv/heartthymes|Heart Thymes]
+# ![Heart Thymes](https://twitch.tv/heartthymes) learning path
 [] Pyton for everybody
 [] Introduction to Computer Science and Programming using Python
 [] Основы Python 1
