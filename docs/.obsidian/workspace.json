@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/20220404-call-with-Nastia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "40b1bc4fb52a5d8a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/20220404-call-with-Nastia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/20220404-call-with-Nastia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/20220404-call-with-Nastia.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,18 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "822cdb83fc6f2ddd",
+  "active": "2af798a82ba81190",
   "lastOpenFiles": [
-    "notes/nourses/python-for-everybody/installing-python.md",
+    "2023-03-05.md",
+    "notes/courses/python-for-everybody/installing-python.md",
+    "notes/625-words.md",
     "index.md",
     "README.md",
     "Untitled.md",
     "Notes/Courses/Modern TypeScript/I.md",
-    "notes/nourses/modern-typescript",
-    "notes/nourses/python-for-everybody",
-    "notes/nourses",
+    "notes/courses/modern-typescript",
+    "notes/courses/python-for-everybody",
+    "notes/courses",
     "2023-03-04.md",
-    "2023-03-05.md",
     "notes/kubernetes-cloud-services.md",
     "notes/cycle-filenames-and-autocomplete.md",
     "notes/dependency-check-with-gradle.md",
