@@ -1,5 +1,22 @@
 - [Heart Thymes](https://twitch.tv/heartthymes) learning path
-- [ ] Pyton for everybody
+- [ ] [Pyton for everybody](https://www.py4e.com/lessons)
+	- [ ] [[Installing Python]]
+	- [ ] Why Program?
+	- [ ] Variables, expressions and statements
+	- [ ] Conditional Execution
+	- [ ] Functions
+	- [ ] Loops and Iterations
+	- [ ] Strings
+	- [ ] Files
+	- [ ] Lists
+	- [ ] Dictionaries
+	- [ ] Tuples
+	- [ ] Regular Expressions
+	- [ ] Network Programming
+	- [ ] Using Web Services
+	- [ ] Object-Oriented Programming
+	- [ ] Databases
+	- [ ] Data Visualization
 - [ ] Introduction to Computer Science and Programming using Python
 - [ ] Основы Python 1
 - [ ] Основы Python 2

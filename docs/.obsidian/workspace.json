@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f6839c14b26a8a09",
+        "id": "c9f96cf7b7f5129e",
         "type": "tabs",
         "children": [
           {
-            "id": "d03c2381867b8bc9",
+            "id": "2af798a82ba81190",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Test canvas.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -72,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "40b1bc4fb52a5d8a",
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/Test canvas.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/Test canvas.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/Test canvas.canvas"
+                "file": "index.md"
               }
             }
           }
@@ -149,9 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d03c2381867b8bc9",
+  "active": "822cdb83fc6f2ddd",
   "lastOpenFiles": [
+    "Notes/Courses/Python for Everybody (PY4E)/Installing Python.md",
+    "README.md",
     "index.md",
+    "Untitled.md",
+    "Notes/Courses/Modern TypeScript/I.md",
+    "Notes/Courses/Modern TypeScript",
+    "Notes/Courses/Python for Everybody (PY4E)",
+    "Notes/Courses",
+    "2023-03-04.md",
+    "2023-03-05.md",
+    "Notes/kubernetes-cloud-services.md",
+    "Notes/cycle-filenames-and-autocomplete.md",
+    "Notes/dependency-check-with-gradle.md",
+    "Notes/cluster-federation-capability.md",
+    "Notes/20220404-call-with-Nastia.md",
+    "Templates/List.md",
+    "Templates/Note.md",
+    "Notes/k8s-scheduler.md",
     "Canvas/Test canvas.canvas",
     "Canvas",
     "Templates"
