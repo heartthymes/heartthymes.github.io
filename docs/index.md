@@ -1,6 +1,7 @@
 # [Heart Thymes](https://twitch.tv/heartthymes) learning path
-- <details>
+<details>
 <summary>Python For Everybody</summary>
+
 - [Link to course](https://www.py4e.com/lessons)
 	-  **GitHub Repo [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**
 	- [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)
