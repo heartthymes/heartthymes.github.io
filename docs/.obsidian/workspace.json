@@ -15,7 +15,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": true
               }
             }
