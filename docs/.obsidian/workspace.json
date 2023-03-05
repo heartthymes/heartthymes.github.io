@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2af798a82ba81190",
+            "id": "18d02159121b1655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 240.5
   },
   "right": {
     "id": "40b1bc4fb52a5d8a",
@@ -147,16 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2af798a82ba81190",
+  "active": "18d02159121b1655",
   "lastOpenFiles": [
+    "2023-03-05.md",
+    "Untitled.md",
+    "index.md",
+    "notes/courses/python-for-everybody/why-program.md",
+    "notes/courses/python-for-everybody/installing-python.md",
+    "links/00Art.md",
+    "links/00ComputerScience.md",
+    "links/00Template.md",
+    "links/00Kubernetes.md",
+    "templates/list.md",
+    "README.md",
+    "templates/note.md",
     "canvas/Test canvas.canvas",
     "notes/20220404-call-with-Nastia.md",
-    "2023-03-05.md",
-    "notes/courses/python-for-everybody/installing-python.md",
     "notes/625-words.md",
-    "index.md",
-    "README.md",
-    "Untitled.md",
     "Notes/Courses/Modern TypeScript/I.md",
     "notes/courses/modern-typescript",
     "notes/courses/python-for-everybody",
@@ -166,8 +173,6 @@
     "notes/cycle-filenames-and-autocomplete.md",
     "notes/dependency-check-with-gradle.md",
     "notes/cluster-federation-capability.md",
-    "templates/List.md",
-    "templates/Note.md",
     "notes/k8s-scheduler.md",
     "canvas",
     "templates"

@@ -1,15 +1,16 @@
 - [Heart Thymes](https://twitch.tv/heartthymes) learning path
 - [ ] [Python for everybody](https://www.py4e.com/lessons)
-	- [ ]  [Installing Python](notes/courses/python-for-everybody/installing-python.md)
-	- [ ] Why Program?
-	- [ ] Variables, expressions and statements
-	- [ ] Conditional Execution
-	- [ ] Functions
-	- [ ] Loops and Iterations
-	- [ ] Strings
-	- [ ] Files
-	- [ ] Lists
-	- [ ] Dictionaries
+	-  **GitHub Repo [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**
+	- [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)
+	- [x] [why-program](notes/courses/python-for-everybody/why-program.md)
+	- [x] Variables, expressions and statements
+	- [x] Conditional Execution
+	- [x] Functions
+	- [x] Loops and Iterations
+	- [x] Strings
+	- [x] Files
+	- [x] Lists
+	- [x] Dictionaries
 	- [ ] Tuples
 	- [ ] Regular Expressions
 	- [ ] Network Programming
