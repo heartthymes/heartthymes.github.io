@@ -1,5 +1,7 @@
 # [Heart Thymes](https://twitch.tv/heartthymes) learning path
-- [ ] [Python for everybody](https://www.py4e.com/lessons)
+- <details>
+<summary>Python For Everybody</summary>
+- [Link to course](https://www.py4e.com/lessons)
 	-  **GitHub Repo [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**
 	- [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)
 	- [x] [why-program](notes/courses/python-for-everybody/why-program.md)
@@ -18,6 +20,8 @@
 	- [ ] Object-Oriented Programming
 	- [ ] Databases
 	- [ ] Data Visualization
+</details>
+
 - [ ] Introduction to Computer Science and Programming using Python
 - [ ] Основы Python 1
 - [ ] Основы Python 2
