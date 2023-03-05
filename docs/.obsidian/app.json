@@ -2,8 +2,11 @@
   "livePreview": false,
   "showLineNumber": true,
   "spellcheck": true,
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Files",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "newLinkFormat": "absolute"
 }
