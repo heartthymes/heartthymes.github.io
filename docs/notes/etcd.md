@@ -1,6 +1,6 @@
 ### etcd
 ##### Category
-[Kubernetes](00Kubernetes.md)
+[Kubernetes](links/00Kubernetes.md)
 
 ##### Tags
 #kubernetes #k8s #containers 

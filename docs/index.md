@@ -1,6 +1,6 @@
 - [Heart Thymes](https://twitch.tv/heartthymes) learning path
-- [ ] [Pyton for everybody](https://www.py4e.com/lessons)
-	- [ ] [installing-python](notes/courses/python-for-everybody/installing-python)
+- [ ] [Python for everybody](https://www.py4e.com/lessons)
+	- [ ]  [Installing Python](notes/courses/python-for-everybody/installing-python.md)
 	- [ ] Why Program?
 	- [ ] Variables, expressions and statements
 	- [ ] Conditional Execution

@@ -1,7 +1,7 @@
  ## Horizontal Pod Autoscaler
  
 >Date: 2022-04-01  
->Category: [Kubernetes](00Kubernetes.md)  
+>Category: [Kubernetes](links/00Kubernetes.md)  
 >Tags: #kubernetes #k8s #containers   
 
 Horizontal Pod Autoscaler

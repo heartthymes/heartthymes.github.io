@@ -11,5 +11,5 @@
 6. Script to add link of one file to the bottom of another.
 
 ## Links
-[Note template](Note.md)
+[Note template](templates/Note.md)
 

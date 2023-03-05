@@ -1,6 +1,6 @@
 # Kubernetes
 >Date: 2022-04-01   
->Category: [k8s](00Kubernetes)  
+>Category: [k8s](links/00Kubernetes.md)  
 >Tags: #kubernetes #k8s #cloud   
 
 K8s is now a de facto standard for deploying containerized applications.

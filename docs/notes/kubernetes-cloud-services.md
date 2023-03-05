@@ -1,7 +1,7 @@
 #### Links to kubernetes cloud services
 
 ##### Category
-[Kubernetes](00Kubernetes)
+[Kubernetes](links/00Kubernetes.md)
 
 ##### Tags
 #kubernetes #k8s #cloud

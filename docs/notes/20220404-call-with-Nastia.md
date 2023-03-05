@@ -1,7 +1,7 @@
  ## 20220404-call-with-Nastia
  
 >Date: 2022-04-04  
->Category: [Art](00Art.md)
+>Category: [Art](links/00Art.md)
 >Tags: #art #nft #podcast #meeting_report
 
 NFT

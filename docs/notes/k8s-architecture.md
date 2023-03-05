@@ -1,10 +1,10 @@
  ## K8S Architecture
  
 >Date: 2022-04-01   
->Category: [Kubernetes](00Kubernetes.md)  
+>Category: [Kubernetes](links/00Kubernetes.md)  
 >Tags: #kubernetes #k8s #cloud #containers  
 
-![k8s-architecture](k8s-architecture.png)
+![k8s-architecture](files/k8s-architecture.png)
 
 Kubernetes allows to deploy any app that runs on VM by [containerizing](https://www.youtube.com/watch?v=cjXI-yxqGTI) it and it's components.
 

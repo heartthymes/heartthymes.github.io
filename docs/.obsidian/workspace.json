@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/20220404-call-with-Nastia.md",
+                "file": "index.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": true
               }
             }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 246.5
   },
   "right": {
     "id": "40b1bc4fb52a5d8a",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/20220404-call-with-Nastia.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/20220404-call-with-Nastia.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/20220404-call-with-Nastia.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "2af798a82ba81190",
   "lastOpenFiles": [
+    "canvas/Test canvas.canvas",
+    "notes/20220404-call-with-Nastia.md",
     "2023-03-05.md",
     "notes/courses/python-for-everybody/installing-python.md",
     "notes/625-words.md",
@@ -164,12 +166,10 @@
     "notes/cycle-filenames-and-autocomplete.md",
     "notes/dependency-check-with-gradle.md",
     "notes/cluster-federation-capability.md",
-    "notes/20220404-call-with-Nastia.md",
-    "Templates/List.md",
-    "Templates/Note.md",
+    "templates/List.md",
+    "templates/Note.md",
     "notes/k8s-scheduler.md",
-    "Canvas/Test canvas.canvas",
-    "Canvas",
-    "Templates"
+    "canvas",
+    "templates"
   ]
 }
