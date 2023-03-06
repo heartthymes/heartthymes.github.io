@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18d02159121b1655",
+  "active": "822cdb83fc6f2ddd",
   "lastOpenFiles": [
     "notes/courses/python-for-everybody/dictionaries.md",
     "index.md",

@@ -3,7 +3,7 @@
 ## Table of Contents
 - [0. Preface](#preface)
 - [1. Python For Everybody](#python-for-everybody)
-- [Python For Everybody](#Python%20For%20Everybody)
+- [2. Introduction to Computer Science and Programming using Python](#introduction-to-computer-science-and-programming-using-python)
 
 ### Preface
 Welcome!  
@@ -15,7 +15,9 @@ Usually I stream every day from **18:00 UTC (6PM)**. Cheers!
 
 I've decided to stream the whole process to stay motivated and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
 
-p.s. Youtube channel is in the making :)
+p.s. Youtube channel is in the making.
+p.p.s We're also playing games. :d
+
 
 ###  Python For Everybody   
 - [Link](https://www.py4e.com/lessons) 
@@ -39,6 +41,9 @@ p.s. Youtube channel is in the making :)
 - [ ] Data Visualization  
 
 ###  Introduction to Computer Science and Programming using Python
+-  This is the upcoming course. Stay tuned!
+
+
 - [ ] Основы Python 1
 - [ ] Основы Python 2
 - [ ] Python для пентестеров
