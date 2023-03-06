@@ -1,11 +1,12 @@
 # [Twitch stream](https://twitch.tv/heartthymes) 
 
-### Table of Contents
-- [0. Preface](#0.%20Preface)
-- [1. Python For Everybody](#1.%20Python%20For%20Everybody%20[Link](https://www.py4e.com/lessons))
-- [2. Introduction to Computer Science and Programming using Python](#2.%20Introduction%20to%20Computer%20Science%20and%20Programming%20using%20Python)
+## Table of Contents
+- [0. Preface](#preface)
+- [1. Python For Everybody](#python-for-everybody)
+- [Python For Everybody](#Python%20For%20Everybody)
 
-#### 0. Preface  
+### Preface
+Welcome!  
 I am a Full-stack software developer working in an international corporation, having a degree in Applied math. Speaking Russian and English. Unfortunately I've never got a formal CS education. Now I am taking this [OSSU](https://github.com/ossu/computer-science) path as a substitute to improve my knowledge and skills.  
 
 **Come join my [Twitch](https://www.twitch.tv/heartthymes) and [Discord](https://discord.gg/A9mDMj6eKv) channels!**  
@@ -14,12 +15,10 @@ Usually I stream every day from **18:00 UTC (6PM)**. Cheers!
 
 I've decided to stream the whole process to stay motivates and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
 
-
-
 p.s. Youtube channel is in the making :)
 
-
-#### 1. Python For Everybody [Link](https://www.py4e.com/lessons) 
+###  Python For Everybody   
+- [Link](https://www.py4e.com/lessons) 
 - **Repo: [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**  
 - [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)  
 - [x] [Why Program?](notes/courses/python-for-everybody/why-program.md)  
@@ -38,7 +37,8 @@ p.s. Youtube channel is in the making :)
 - [ ] Object-Oriented Programming  
 - [ ] Databases  
 - [ ] Data Visualization  
-#### 2. Introduction to Computer Science and Programming using Python
+
+###  Introduction to Computer Science and Programming using Python
 - [ ] Основы Python 1
 - [ ] Основы Python 2
 - [ ] Python для пентестеров
