@@ -1,4 +1,4 @@
 # Zettelkasten
 [[main]] [[zettelkasten]]  [[productivity]] 
-[[notes/zettelkasten-principles|test]]
+[[notes/old/zettelkasten-principles|test]]
 

@@ -7,4 +7,4 @@
 00Art
 
 ---
-- [20220404-call-with-Nastia](notes/20220404-call-with-Nastia.md)
+- [20220404-call-with-Nastia](notes/old/20220404-call-with-Nastia.md)

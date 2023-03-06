@@ -7,4 +7,5 @@
 {{content}}
 
 ---
+- [Home](https://heartthymes.github.io)
 - [{{fromTitle}}]({{fromTitle}}.md)

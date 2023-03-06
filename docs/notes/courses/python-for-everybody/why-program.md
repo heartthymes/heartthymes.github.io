@@ -7,4 +7,4 @@
 To make computers do what we want.
 
 ---
-- [index](index.md)
+- [Home](https://heartthymes.github.io)
