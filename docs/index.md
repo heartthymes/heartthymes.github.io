@@ -12,7 +12,7 @@ I am a Full-stack software developer working in an international corporation, ha
 
 Usually I stream every day from **18:00 UTC (6PM)**. Cheers!  
 
-I've decided to stream the whole process to stay motivates and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
+I've decided to stream the whole process to stay motivated and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
 
 
 
