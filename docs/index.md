@@ -15,9 +15,8 @@ Usually I stream every day from **18:00 UTC (6PM)**. Cheers!
 
 I've decided to stream the whole process to stay motivated and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
 
-p.s. Youtube channel is in the making.
-p.p.s We're also playing games. :d
-
+p.s. Youtube channel is in the making.  
+p.p.s We're also playing games. :d  
 
 ###  Python For Everybody   
 - [Link](https://www.py4e.com/lessons) 

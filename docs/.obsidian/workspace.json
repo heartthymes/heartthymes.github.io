@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "notes/courses/python-for-everybody/dictionaries.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/courses/python-for-everybody/dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/courses/python-for-everybody/dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/courses/python-for-everybody/dictionaries.md"
               }
             }
           }
@@ -147,13 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "822cdb83fc6f2ddd",
+  "active": "18d02159121b1655",
   "lastOpenFiles": [
+    "2023-03-06.md",
+    "notes/courses/python-for-everybody/strings.md",
     "notes/courses/python-for-everybody/dictionaries.md",
     "index.md",
     "preface.md",
     "2023-03-04.md",
-    "2023-03-06.md",
     "2023-03-05.md",
     "notes/courses/python-for-everybody/lists.md",
     "notes/courses/python-for-everybody/installing-python.md",
@@ -163,7 +164,6 @@
     "notes/courses/python-for-everybody/files.md",
     "files/test.md",
     "notes/courses/python-for-everybody/why-program.md",
-    "notes/courses/python-for-everybody/strings.md",
     "notes/courses/python-for-everybody/loops-and-iteration.md",
     "notes/courses/python-for-everybody/functions.md",
     "notes/courses/python-for-everybody/conditional-execution.md",
