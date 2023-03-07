@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/courses/python-for-everybody/dictionaries.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/courses/python-for-everybody/dictionaries.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/courses/python-for-everybody/dictionaries.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/courses/python-for-everybody/dictionaries.md"
+                "file": "index.md"
               }
             }
           }
@@ -150,13 +150,15 @@
   "active": "18d02159121b1655",
   "lastOpenFiles": [
     "2023-03-06.md",
-    "notes/courses/python-for-everybody/strings.md",
-    "notes/courses/python-for-everybody/dictionaries.md",
-    "index.md",
-    "preface.md",
     "2023-03-04.md",
-    "2023-03-05.md",
+    "notes/courses/python-for-everybody/tuples.md",
     "notes/courses/python-for-everybody/lists.md",
+    "2023-03-07.md",
+    "index.md",
+    "notes/courses/python-for-everybody/dictionaries.md",
+    "notes/courses/python-for-everybody/strings.md",
+    "preface.md",
+    "2023-03-05.md",
     "notes/courses/python-for-everybody/installing-python.md",
     "notes/courses/python-for-everybody/variables-expressions-and-statements.md",
     "files/k8s-architecture.png",
@@ -176,8 +178,6 @@
     "README.md",
     "Untitled.md",
     "links/00Art.md",
-    "links/00Kubernetes.md",
-    "templates/list.md",
     "canvas/Test canvas.canvas",
     "notes/courses/modern-typescript",
     "notes/courses/python-for-everybody",

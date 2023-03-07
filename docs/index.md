@@ -11,7 +11,7 @@ I am a Full-stack software developer working in an international corporation, ha
 
 **Come join my [Twitch](https://www.twitch.tv/heartthymes) and [Discord](https://discord.gg/A9mDMj6eKv) channels!**  
 
-Usually I stream every day from **18:00 UTC (6PM)**. Cheers!  
+Usually I stream every day from **18:00 UTC+1 (6PM)**. Cheers!  
 
 I've decided to stream the whole process to stay motivated and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
 
@@ -31,7 +31,7 @@ p.p.s We're also playing games. :d
 - [x] [Files](notes/courses/python-for-everybody/files.md)  
 - [x] [Lists](notes/courses/python-for-everybody/lists.md)  
 - [x] [Dictionaries](notes/courses/python-for-everybody/dictionaries.md)  
-- [ ] Tuples  
+- [x] [Tuples](notes/courses/python-for-everybody/tuples.md) 
 - [ ] Regular Expressions  
 - [ ] Network Programming  
 - [ ] Using Web Services  
