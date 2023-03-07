@@ -1,8 +1,8 @@
  ## Lists
  
->Date: 2023-03-05  
->Category: [00ComputerScience](links/00ComputerScience.md)
->Tags: #python #programming
+>Date: 2023-03-05   
+>Category: [00ComputerScience](links/00ComputerScience.md)  
+>Tags: #python #programming  
 
 Lists are mutable
 You can concatenate lists

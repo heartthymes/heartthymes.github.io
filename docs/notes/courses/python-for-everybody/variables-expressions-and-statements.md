@@ -1,8 +1,8 @@
  ## Variables, expressions and statements  
  
 >Date: 2023-03-06  
->Category: [00ComputerScience](links/00ComputerScience.md)
->Tags: #python #programming
+>Category: [00ComputerScience](links/00ComputerScience.md)  
+>Tags: #python #programming  
 
 It is good thing to name variable in a descriptive manner. 
 Makes code human readable and helps to understand what does this code do.
