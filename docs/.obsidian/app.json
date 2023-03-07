@@ -10,5 +10,8 @@
   "newFileFolderPath": "Notes",
   "newLinkFormat": "absolute",
   "promptDelete": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showInlineTitle": false
 }

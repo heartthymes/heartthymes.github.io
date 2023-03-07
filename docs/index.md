@@ -32,7 +32,7 @@ p.p.s We're also playing games. :d
 - [x] [Lists](notes/courses/python-for-everybody/lists.md)  
 - [x] [Dictionaries](notes/courses/python-for-everybody/dictionaries.md)  
 - [x] [Tuples](notes/courses/python-for-everybody/tuples.md) 
-- [ ] Regular Expressions  
+- [x] [Regular Expressions](notes/courses/python-for-everybody/regular-expressions.md) 
 - [ ] Network Programming  
 - [ ] Using Web Services  
 - [ ] Object-Oriented Programming  

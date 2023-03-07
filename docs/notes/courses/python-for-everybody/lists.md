@@ -24,7 +24,12 @@ sum(my_list)    # summs all values in the list
 my_list.split() # splist a string by a character (if provided) and returning a list
 # by default split() uses space as a character
 # split treats spaces as single space
+```
 
+List comprehension
+```python
+source = ["1", "2", "3"]
+result = [int(x) for x in source] # result [ 1, 2, 3 ]
 ```
 
 ---

@@ -18,8 +18,5 @@ You can't sort, append or reverse. Only count or index methods are available.
 
 Tuples are comparable in the iterative fashion from left to right. 
 
-
-!How to sort with predicate?
-
 ---
 - [Home](https://heartthymes.github.io)

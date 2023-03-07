@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/courses/python-for-everybody/why-program.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/courses/python-for-everybody/why-program.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/courses/python-for-everybody/why-program.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/courses/python-for-everybody/why-program.md"
+                "file": "index.md"
               }
             }
           }
@@ -149,26 +149,27 @@
   },
   "active": "18d02159121b1655",
   "lastOpenFiles": [
-    "notes/courses/python-for-everybody/variables-expressions-and-statements.md",
-    "notes/courses/python-for-everybody/tuples.md",
-    "notes/courses/python-for-everybody/strings.md",
-    "notes/courses/python-for-everybody/loops-and-iteration.md",
-    "notes/courses/python-for-everybody/lists.md",
-    "notes/courses/python-for-everybody/installing-python.md",
+    "notes/courses/python-for-everybody/regular-expressions.md",
+    "2023-03-07.md",
     "notes/courses/python-for-everybody/functions.md",
+    "notes/courses/python-for-everybody/lists.md",
+    "notes/courses/python-for-everybody/loops-and-iteration.md",
+    "notes/courses/python-for-everybody/strings.md",
+    "notes/courses/python-for-everybody/tuples.md",
+    "notes/courses/python-for-everybody/variables-expressions-and-statements.md",
+    "notes/courses/python-for-everybody/why-program.md",
+    "notes/courses/python-for-everybody/installing-python.md",
     "notes/courses/python-for-everybody/files.md",
     "notes/courses/python-for-everybody/dictionaries.md",
     "notes/courses/python-for-everybody/conditional-execution.md",
+    "2023-03-04.md",
     "index.md",
     "2023-03-06.md",
-    "2023-03-04.md",
-    "2023-03-07.md",
     "preface.md",
     "2023-03-05.md",
     "files/k8s-architecture.png",
     "files/k8s-architecture 1.png",
     "files/test.md",
-    "notes/courses/python-for-everybody/why-program.md",
     "links/00Template.md",
     "links/00ComputerScience.md",
     "notes/old/625-words.md",
@@ -177,7 +178,6 @@
     "index.html.md",
     "README.md",
     "Untitled.md",
-    "links/00Art.md",
     "canvas/Test canvas.canvas",
     "notes/courses/modern-typescript",
     "notes/courses/python-for-everybody",
