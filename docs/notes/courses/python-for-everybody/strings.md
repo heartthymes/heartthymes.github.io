@@ -33,5 +33,9 @@ line = "Some text"
 line.startswith('S') #true
 ```
 
+```python
+ord('A') # returns ASCII code of the character
+```
+
 ---
 - [Home](https://heartthymes.github.io)

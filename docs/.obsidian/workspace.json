@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "preview",
+                "file": "notes/courses/python-for-everybody/loops-and-iteration.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "notes/courses/python-for-everybody/loops-and-iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "notes/courses/python-for-everybody/loops-and-iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "notes/courses/python-for-everybody/loops-and-iteration.md"
               }
             }
           }
@@ -149,20 +149,21 @@
   },
   "active": "18d02159121b1655",
   "lastOpenFiles": [
-    "notes/courses/python-for-everybody/regular-expressions.md",
-    "2023-03-07.md",
-    "notes/courses/python-for-everybody/functions.md",
-    "notes/courses/python-for-everybody/lists.md",
+    "notes/courses/python-for-everybody/conditional-execution.md",
     "notes/courses/python-for-everybody/loops-and-iteration.md",
+    "notes/courses/python-for-everybody/regular-expressions.md",
     "notes/courses/python-for-everybody/strings.md",
     "notes/courses/python-for-everybody/tuples.md",
     "notes/courses/python-for-everybody/variables-expressions-and-statements.md",
+    "2023-03-08.md",
+    "2023-03-07.md",
+    "2023-03-04.md",
     "notes/courses/python-for-everybody/why-program.md",
+    "notes/courses/python-for-everybody/lists.md",
     "notes/courses/python-for-everybody/installing-python.md",
+    "notes/courses/python-for-everybody/functions.md",
     "notes/courses/python-for-everybody/files.md",
     "notes/courses/python-for-everybody/dictionaries.md",
-    "notes/courses/python-for-everybody/conditional-execution.md",
-    "2023-03-04.md",
     "index.md",
     "2023-03-06.md",
     "preface.md",
@@ -177,7 +178,6 @@
     "templates/note.md",
     "index.html.md",
     "README.md",
-    "Untitled.md",
     "canvas/Test canvas.canvas",
     "notes/courses/modern-typescript",
     "notes/courses/python-for-everybody",

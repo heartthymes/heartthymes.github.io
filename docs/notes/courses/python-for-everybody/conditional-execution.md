@@ -30,5 +30,10 @@ except:
 	#code in case of exception
 ```
 
+None is a type! Representing nothing.
+```python
+if x is None:
+	
+```
 ---
 - [Home](https://heartthymes.github.io)
