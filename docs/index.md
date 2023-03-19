@@ -4,16 +4,19 @@
 - [0. Preface](#preface)
 - [1. Python For Everybody](#python-for-everybody)
 - [2. Introduction to Computer Science and Programming using Python](#introduction-to-computer-science-and-programming-using-python)
+---
+*Other courses on the side*
+- [a. Modern TypeScript Full Course](#modern-typescript-full-course) 
 
 ### Preface
 Welcome!  
-I am a Full-stack software developer working in an international corporation, having a degree in Applied math. Speaking Russian and English. Unfortunately I've never got a formal CS education. Now I am taking this [OSSU](https://github.com/ossu/computer-science) path as a substitute to improve my knowledge and skills.  
+I am a Full-stack software developer working in an international corporation, having a degree in Applied math. Speaking Russian and English. Unfortunately I've never got a formal CS education. Now I am taking this [path](https://github.com/ossu/computer-science) as a substitute to improve my knowledge and skills.  
 
 **Come join my [Twitch](https://www.twitch.tv/heartthymes) and [Discord](https://discord.gg/A9mDMj6eKv) channels!**  
 
 Usually I stream every day from **18:00 UTC+1 (6PM)**. Cheers!  
 
-I've decided to stream the whole process to stay motivated and find new good people on the road. Where we build a community dedicated to have fun while learning and learn while having fun.  
+I've decided to stream the whole process to stay motivated and find new good people on the road. Join my discord channel! Where we build a community dedicated to have fun while learning and learn while having fun.  
 
 p.s. Youtube channel is in the making.  
 p.p.s We're also playing games. :d  
@@ -33,8 +36,8 @@ p.p.s We're also playing games. :d
 - [x] [Dictionaries](notes/courses/python-for-everybody/dictionaries.md)  
 - [x] [Tuples](notes/courses/python-for-everybody/tuples.md) 
 - [x] [Regular Expressions](notes/courses/python-for-everybody/regular-expressions.md) 
-- [ ] Network Programming  
-- [ ] Using Web Services  
+- [x] [Network Programming](notes/courses/python-for-everybody/network-programming.md)  
+- [x] [Using Web Services](notes/courses/python-for-everybody/using-web-services.md)  
 - [ ] Object-Oriented Programming  
 - [ ] Databases  
 - [ ] Data Visualization  
@@ -134,3 +137,91 @@ p.p.s We're also playing games. :d
 - [ ] Modern Robotics (Specialization)
 - [ ] Internet of Things (Specialization)
 - [ ] Game Design and Development with Unity 2020 (Specialization)
+
+### Modern TypeScript Full Course
+- **Basic knowledge**
+- [ ] What is TypeScript
+- [ ] Installing and launching
+- [ ] Basic types: string, number, boolean
+- [ ] Types in functions
+- [ ] Type: Any
+- [ ] Practice of basic types
+- [ ] Type: Never
+- [ ] Types: null, undefined
+- [ ] Rare primitive types: bigint, symbol
+- [ ] Object types, destructing
+- [ ] Array types
+- [ ] Practice: Object types
+- [ ] Tuples
+- [ ] Union
+- [ ] Narrowing
+- [ ] Literal types
+- [ ] Type aliases
+- [ ] Object literals and function annotation
+- **Necessary level knowledge**
+- [ ] Advanced Type and intersection
+- [ ] Interfaces
+- [ ] Type or reference?
+- [ ] Practice: Interfaces and types
+- [ ] Type interface
+- [ ] Property Modifier: optional
+- [ ] Non-null and Non-undefined
+- [ ] Property Modifier: readonly
+- [ ] Enums
+- [ ] Type: Unknown
+- [ ] Type requests
+- [ ] Practice
+- [ ] Type Assertions
+- [ ] Inner types and type conversion
+- [ ] Type Guard
+- [ ] Usecase of never
+- [ ] Function overloading
+- [ ] Interface separation
+- [ ] Practice: Interface separation and type guard creation
+- [ ] Using DOM
+- [ ] Practice: DOM
+- [ ] Using void inside TS
+- **Generics and type manipulation**
+- [ ] Generics. What is it and why do we need it?
+- [ ] Generics functions
+- [ ] Generics types and interfaces constraints
+- [ ] Practice: Generics
+- [ ] Generics classes
+- [ ] Built-in generalization: Readonly, Partial, Required
+- [ ] Type manipulation
+- [ ] Operator: keyof
+- [ ] Operator: typeof and type requests
+- [ ] Indexed Access Types
+- [ ] Practice: Type manipulation
+- [ ] Conditional types and infer
+- [ ] Mapped types and +/- operators
+- [ ] Template literal types
+- [ ] Utility types: Pick, Omit, Extract, Exclude, Record
+- [ ] Practice
+- [ ] Additional utility types
+- [ ] Server requests, Promise and JSON
+- [ ] Awaited
+- **Classes**
+- [ ] Classes: Base interaction
+- [ ] Constructors, overloading, generics
+- [ ] Methods, overloading, getters, setters
+- [ ] Initial value and Index Signtaures
+- [ ] Inheritance (extends)
+- [ ] Implementation (implements)
+- [ ] Practice: interface implementation
+- [ ] Scope modification
+- [ ] Private fields (#, possibility in JS)
+- [ ] Static fields and methods
+- [ ] this and context types
+- [ ] Abstract classes
+- [ ] Practice: Classes
+- **Decorators, patterns and configuration**
+- [ ] Decorators
+- [ ] Decorators in TS
+- [ ] Terminology, decorators factory
+- [ ] Method decorators, usage of this
+- [ ] Property decorators
+- [ ] Decorators of property-accessors: get/set
+- [ ] Decorators of arguments and metadata
+- [ ] Order of decorators
+- [ ] Practice: decorators
