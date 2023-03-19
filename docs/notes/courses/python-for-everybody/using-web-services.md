@@ -1,8 +1,8 @@
+## Using Web Services
+
 >Date: 2023-03-09  
 >Category: [00ComputerScience](links/00ComputerScience.md)  
 >Tags: #python #programming  
-
-## Using Web Services
 
 XML - extendable markup language
 
@@ -101,4 +101,3 @@ for item in info:
 
 ---
 - [Home](https://heartthymes.github.io)
-- [2023-03-08](2023-03-08.md)

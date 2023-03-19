@@ -1,11 +1,8 @@
- ## Regular expressions
+## Regular expressions
  
 >Date: 2023-03-05  
 >Category: [00ComputerScience](links/00ComputerScience.md)  
 >Tags: #python #programming  
-
-
-
 
 - `^`              - Matches the beginning of the line
 - `$`              - Matches the end of the line

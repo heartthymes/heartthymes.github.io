@@ -1,10 +1,8 @@
- ## Network Programming
- 
+## Network Programming
+
 >Date: 2023-03-09  
 >Category: [00ComputerScience](links/00ComputerScience.md)  
 >Tags: #python #programming  
-
-## Network Programming
 
 ```python
 import socket

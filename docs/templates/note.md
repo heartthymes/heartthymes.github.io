@@ -1,4 +1,4 @@
- ## {{newTitle}}
+## {{newTitle}}
  
 >Date: {{date:YYYY-MM-DD}}  
 >Category: [Template](links/00Template.md)  

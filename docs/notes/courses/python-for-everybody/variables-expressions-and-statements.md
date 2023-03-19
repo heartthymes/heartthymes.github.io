@@ -1,4 +1,4 @@
- ## Variables, expressions and statements  
+## Variables, expressions and statements  
  
 >Date: 2023-03-06  
 >Category: [00ComputerScience](links/00ComputerScience.md)  

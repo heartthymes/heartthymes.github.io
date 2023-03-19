@@ -4,9 +4,10 @@
 - [0. Preface](#preface)
 - [1. Python For Everybody](#python-for-everybody)
 - [2. Introduction to Computer Science and Programming using Python](#introduction-to-computer-science-and-programming-using-python)
+
 ---
 *Other courses on the side*
-- [a. Modern TypeScript Full Course](#modern-typescript-full-course) 
+- [a. Modern TypeScript Full Course (paid)](#modern-typescript-full-course) 
 
 ### Preface
 Welcome!  
@@ -139,10 +140,12 @@ p.p.s We're also playing games. :d
 - [ ] Game Design and Development with Unity 2020 (Specialization)
 
 ### Modern TypeScript Full Course
+- [Link](https://www.udemy.com/course/modern_typescript/)
+- [Repository](https://github.com/heartthymes/udemy_modern_ts)
 - **Basic knowledge**
-- [ ] What is TypeScript
-- [ ] Installing and launching
-- [ ] Basic types: string, number, boolean
+- [x] [What is TypeScript](notes/courses/modern-typescript/what-is-typescript.md)
+- [x] [Installing and launching](notes/courses/modern-typescript/installing-and-launching.md)
+- [x] [Basic types: string, number, boolean](notes/courses/modern-typescript/basic-types-string-number-boolean.md)
 - [ ] Types in functions
 - [ ] Type: Any
 - [ ] Practice of basic types
