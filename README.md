@@ -1,6 +1,6 @@
 - [Heart Thymes](https://twitch.tv/heartthymes) learning path
 
-## How to docker  
+## How to docker   
 
 ```bash
 sudo docker pull ubuntu:latest
