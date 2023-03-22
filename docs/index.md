@@ -22,7 +22,7 @@ I've decided to stream the whole process to stay motivated and find new good peo
 p.s. Youtube channel is in the making.  
 p.p.s We're also playing games. :d  
 
-###  Python For Everybody   
+###  Python For Everybody #en #free   
 - [Link](https://www.py4e.com/lessons) 
 - **Repo: [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**  
 - [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)  
@@ -43,62 +43,62 @@ p.p.s We're also playing games. :d
 - [ ] Databases  
 - [ ] Data Visualization  
 
-###  Introduction to Computer Science and Programming using Python
+###  Introduction to Computer Science and Programming using Python #en #free
 -  This is the upcoming course. Stay tuned!
 
 
-- [ ] Основы Python 1
-- [ ] Основы Python 2
-- [ ] Python для пентестеров
-- [ ] Python разработчик с нуля
-- [ ] Python (Бонус для профессии по кибербезопасности)
-- [ ] Система контроля версий Гит
-- [ ] How to Code - Simple Data (textbook)
-- [ ] How to Code - Complex Data
-- [ ] Programming Languages, Part A
-- [ ] Programming Languages, Part B
-- [ ] Programming Languages, Part C
-- [ ] Object-Oriented Design
-- [ ] Design Patterns
-- [ ] Software Architecture
-- [ ] Calculus 1A: Differentiation
-- [ ] Calculus 1B: Integration
-- [ ] Calculus 1C: Coordinate Systems & Infinite Series
-- [ ] Mathematics for Computer Science
-- [ ] The Missing Semester of Your CS Education
-- [ ] Build a Modern Computer from First Principles: From Nand to Tetris
-- [ ] Build a Modern Computer from First Principles: Nand to Tetris Part II
-- [ ] Operating Systems: Three Easy Pieces
-- [ ] Структура ОС Линукс (для профессии)
-- [ ] Работа в Баш
-- [ ] Системное администрирование Линукс
-- [ ] Сетевое администрирование Линукс
-- [ ] Линукс для спец по инф безопасности
-- [ ] Администрирование виндоус и работа в пауэршел
-- [ ] Computer Networking: a Top-Down Approach
-- [ ] Сеть
+- [ ] Основы Python 1 #ru #paid
+- [ ] Основы Python 2 #ru #paid
+- [ ] Python для пентестеров #ru #paid
+- [ ] Python разработчик с нуля #ru #paid
+- [ ] Python (Бонус для профессии по кибербезопасности) #ru #paid
+- [ ] Система контроля версий Гит #ru #paid
+- [ ] How to Code - Simple Data (textbook) #en #free
+- [ ] How to Code - Complex Data #en #free
+- [ ] Programming Languages, Part A #en #free
+- [ ] Programming Languages, Part B #en #free
+- [ ] Programming Languages, Part C #en #free
+- [ ] Object-Oriented Design #en #free
+- [ ] Design Patterns #en #free
+- [ ] Software Architecture #en #free
+- [ ] Calculus 1A: Differentiation #en #free
+- [ ] Calculus 1B: Integration #en #free
+- [ ] Calculus 1C: Coordinate Systems & Infinite Series #en #free
+- [ ] Mathematics for Computer Science #en #free
+- [ ] The Missing Semester of Your CS Education #en #free
+- [ ] Build a Modern Computer from First Principles: From Nand to Tetris #en #free
+- [ ] Build a Modern Computer from First Principles: Nand to Tetris Part II #en #free
+- [ ] Operating Systems: Three Easy Pieces #en #free
+- [ ] Структура ОС Линукс (для профессии) #ru #paid
+- [ ] Работа в Баш #ru #paid
+- [ ] Системное администрирование Линукс #ru #paid
+- [ ] Сетевое администрирование Линукс #ru #paid
+- [ ] Линукс для спец по инф безопасности #ru #paid
+- [ ] Администрирование виндоус и работа в пауэршел #ru #paid
+- [ ] Computer Networking: a Top-Down Approach #en #free
+- [ ] Сеть #ru #paid
 - [ ] Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 - [ ] Graph Search, Shortest Paths, and Data Structures
 - [ ] Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
 - [ ] Shortest Paths Revisited, NP-Complete Problems and What To Do About Them
-- [ ] Введение в информационную безопасность
+- [ ] Введение в информационную безопасность #ru #paid
 - [ ] Cybersecurity Fundamentals
-- [ ] Специалист по кибербезопасности
-- [ ] Анализ защищенности
-- [ ] Внедрение, модернизация и поддержка систем ИБ
-- [ ] Мониторинг и реагирование на события и инциденты
-- [ ] Защита приложений
+- [ ] Специалист по кибербезопасности #ru #paid
+- [ ] Анализ защищенности #ru #paid
+- [ ] Внедрение, модернизация и поддержка систем ИБ #ru #paid
+- [ ] Мониторинг и реагирование на события и инциденты #ru #paid
+- [ ] Защита приложений #ru #paid
 - [ ] Principles of Secure Coding
-- [ ] Основы шифрования
+- [ ] Основы шифрования #ru #paid
 - [ ] Identifying Security Vulnerabilities
 - [ ] Identifying Security Vulnerabilities in C/C++Programming
 - [ ] Exploiting and Securing Vulnerabilities in Java Applications
 - [ ] Databases: Modeling and Theory
-- [ ] Язык запросов сиквел
+- [ ] Язык запросов сиквел #ru #paid
 - [ ] Databases: Relational Databases and SQL
 - [ ] Databases: Semistructured Data
-- [ ] Безопасность баз данных
-- [ ] Воркшопы и вебинары
+- [ ] Безопасность баз данных #ru #paid
+- [ ] Воркшопы и вебинары #ru #paid
 - [ ] Machine Learning
 - [ ] Computer Graphics
 - [ ] Software Engineering: Introduction
@@ -139,23 +139,21 @@ p.p.s We're also playing games. :d
 - [ ] Internet of Things (Specialization)
 - [ ] Game Design and Development with Unity 2020 (Specialization)
 
-### Modern TypeScript Full Course
+### Modern TypeScript Full Course #ru #paid
 - [Link](https://www.udemy.com/course/modern_typescript/)
 - [Repository](https://github.com/heartthymes/udemy_modern_ts)
 - **Basic knowledge**
 - [x] [What is TypeScript](notes/courses/modern-typescript/what-is-typescript.md)
 - [x] [Installing and launching](notes/courses/modern-typescript/installing-and-launching.md)
 - [x] [Basic types: string, number, boolean](notes/courses/modern-typescript/basic-types-string-number-boolean.md)
-- [ ] Types in functions
-- [ ] Type: Any
-- [ ] Practice of basic types
-- [ ] Type: Never
-- [ ] Types: null, undefined
-- [ ] Rare primitive types: bigint, symbol
-- [ ] Object types, destructing
-- [ ] Array types
-- [ ] Practice: Object types
-- [ ] Tuples
+- [x] [Types in functions](notes/courses/modern-typescript/types-in-functions.md)
+- [x] [Type: Any](notes/courses/modern-typescript/type-any.md)
+- [x] [Type: Never](notes/courses/modern-typescript/type-never.md)
+- [x] [Types: null, undefined](notes/courses/modern-typescript/types-null-undefined.md)
+- [x] [Rare primitive types: bigint, symbol](notes/courses/modern-typescript/rare-primitive-types-bigint-symbol.md)
+- [x] [Object types, destructing](notes/courses/modern-typescript/object-types-destructing.md)
+- [x] [Array types](notes/courses/modern-typescript/array-types.md)
+- [x] [Tuples](notes/courses/modern-typescript/tuples.md)
 - [ ] Union
 - [ ] Narrowing
 - [ ] Literal types
