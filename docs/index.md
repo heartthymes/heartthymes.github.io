@@ -22,8 +22,8 @@ I've decided to stream the whole process to stay motivated and find new good peo
 p.s. Youtube channel is in the making.  
 p.p.s We're also playing games. :d  
 
-###  Python For Everybody #en #free   
-- [Link](https://www.py4e.com/lessons) 
+###  Python For Everybody  
+- [Link](https://www.py4e.com/lessons) #en #free 
 - **Repo: [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**  
 - [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)  
 - [x] [Why Program?](notes/courses/python-for-everybody/why-program.md)  
@@ -139,8 +139,8 @@ p.p.s We're also playing games. :d
 - [ ] Internet of Things (Specialization)
 - [ ] Game Design and Development with Unity 2020 (Specialization)
 
-### Modern TypeScript Full Course #ru #paid
-- [Link](https://www.udemy.com/course/modern_typescript/)
+### Modern TypeScript Full Course
+- [Link](https://www.udemy.com/course/modern_typescript/) #ru #paid
 - [Repository](https://github.com/heartthymes/udemy_modern_ts)
 - **Basic knowledge**
 - [x] [What is TypeScript](notes/courses/modern-typescript/what-is-typescript.md)
