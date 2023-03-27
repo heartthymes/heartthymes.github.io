@@ -22,7 +22,7 @@ I've decided to stream the whole process to stay motivated and find new good peo
 p.s. Youtube channel is in the making.  
 p.p.s We're also playing games. :d  
 
-###  Python For Everybody  
+###  Python For Everybody
 - [Link](https://www.py4e.com/lessons) #en #free 
 - **Repo: [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**  
 - [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)  
@@ -39,7 +39,7 @@ p.p.s We're also playing games. :d
 - [x] [Regular Expressions](notes/courses/python-for-everybody/regular-expressions.md) 
 - [x] [Network Programming](notes/courses/python-for-everybody/network-programming.md)  
 - [x] [Using Web Services](notes/courses/python-for-everybody/using-web-services.md)  
-- [ ] Object-Oriented Programming  
+- [x] [Object-Oriented Programming](notes/courses/python-for-everybody/object-oriented-programming.md)  
 - [ ] Databases  
 - [ ] Data Visualization  
 
