@@ -25,7 +25,7 @@ p.p.s We're also playing games. :d
 
 ###  Python For Everybody
 - [Link](https://www.py4e.com/lessons) #en #free 
-- [Repository](https://github.com/heartthymes/ossu-py4e)**  
+- [Repository](https://github.com/heartthymes/ossu-py4e)  
 - [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)  
 - [x] [Why Program?](notes/courses/python-for-everybody/why-program.md)  
 - [x] [Variables, expressions and statements](notes/courses/python-for-everybody/variables-expressions-and-statements.md)
