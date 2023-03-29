@@ -8,6 +8,7 @@
 ---
 *Other courses on the side*
 - [a. Modern TypeScript Full Course (paid)](#modern-typescript-full-course) 
+- [b. Getting Started with Go (paid)](#getting-started-with-go)
 
 ### Preface
 Welcome!  
@@ -24,7 +25,7 @@ p.p.s We're also playing games. :d
 
 ###  Python For Everybody
 - [Link](https://www.py4e.com/lessons) #en #free 
-- **Repo: [https://github.com/heartthymes/ossu-py4e](https://github.com/heartthymes/ossu-py4e)**  
+- [Repository](https://github.com/heartthymes/ossu-py4e)  
 - [x] [Installing Python](notes/courses/python-for-everybody/installing-python.md)  
 - [x] [Why Program?](notes/courses/python-for-everybody/why-program.md)  
 - [x] [Variables, expressions and statements](notes/courses/python-for-everybody/variables-expressions-and-statements.md)
@@ -226,3 +227,52 @@ p.p.s We're also playing games. :d
 - [ ] Decorators of arguments and metadata
 - [ ] Order of decorators
 - [ ] Practice: decorators
+
+### Getting Started with Go
+- [Link](https://www.coursera.org/learn/golang-getting-started) #en #paid 
+- [Repository](https://github.com/heartthymes/coursera-golang-introduction)
+- [x] [Go Documentation](notes/courses/go-lang/go-documentation.md)
+- [x] [Workspaces and Packages](notes/courses/go-lang/workspaces-and-packages.md)
+- [x] [Go Tool](notes/courses/go-lang/go-tool.md)
+- [x] [Variables](notes/courses/go-lang/variables.md)
+- [x] [Variable initialization](notes/courses/go-lang/variable-initialization.md)
+- [x] [Pointers](notes/courses/go-lang/pointers.md)
+- [x] [Variable scope](notes/courses/go-lang/variable-scope.md)
+- [x] [Deallocating memmory](notes/courses/go-lang/deallocating-memory.md)
+- [x] [Garbage collection](notes/courses/go-lang/garbage-collection.md)
+- [x] [Comments, Printing, integers](notes/courses/go-lang/comments-printing-integers.md)
+- [x] [Ints, Floats, Strings](notes/courses/go-lang/ints-floats-strings.md)
+- [x] [String Packets](notes/courses/go-lang/string-packets.md)
+- [x] [Constants](notes/courses/go-lang/constants.md)
+- [x] [Control flow](notes/courses/go-lang/control-flow.md)
+- [x] [Control flow, scan](notes/courses/go-lang/control-flow-scan.md)
+- [ ] Arrays
+- [ ] Slices
+- [ ] Variable slices
+- [ ] Hash tables
+- [ ] Maps
+- [ ] Structs
+- [ ] RFCs
+- [ ] JSON
+- [ ] File Access, ioutil
+- [ ] File Access, os
+- [ ] Function parameters and return values
+- [ ] Call by value, reference
+- [ ] Passing Arrays and Slices
+- [ ] Well-Written Functions
+- [ ] Guidelines for Functions
+- [ ] Function Guidelines
+- [ ] First-Class Values
+- [ ] Returning Functions
+- [ ] Variadic and Deferred
+- [ ] Classes and Encapsulation
+- [ ] Support for Classes
+- [ ] Encapsulation
+- [ ] Point Receivers
+- [ ] Point Receivers, Referencing, Dereferencing
+- [ ] Polymorphism
+- [ ] Interfaces
+- [ ] Interface vs Concrete Types
+- [ ] Using Interfaces
+- [ ] Type Assertions
+- [ ] Error Handling
