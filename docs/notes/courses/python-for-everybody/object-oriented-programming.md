@@ -49,4 +49,3 @@ Destructor is called when the reference to the object is lost e.g. variable hold
 
 ---
 - [Home](https://heartthymes.github.io)
-- [2023-03-27](2023-03-27.md)
