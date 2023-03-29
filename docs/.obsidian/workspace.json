@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "2023-03-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2023-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2023-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2023-03-27.md"
               }
             }
           }
@@ -163,17 +163,17 @@
   },
   "active": "504365a760e8b899",
   "lastOpenFiles": [
+    "2023-03-09.md",
+    "2023-03-19.md",
+    "2023-03-22.md",
+    "2023-03-27.md",
     "notes/courses/python-for-everybody/object-oriented-programming.md",
+    "index.md",
     "notes/courses/python-for-everybody/regular-expressions.md",
     "notes/courses/python-for-everybody/why-program.md",
-    "2023-03-27.md",
-    "2023-03-22.md",
-    "2023-03-09.md",
     "2023-03-08.md",
     "notes/courses/python-for-everybody/functions.md",
     "notes/courses/modern-typescript/tuples.md",
-    "index.md",
-    "2023-03-19.md",
     "notes/courses/modern-typescript/array-types.md",
     "notes/courses/modern-typescript/object-types-destructing.md",
     "notes/courses/modern-typescript/rare-primitive-types-bigint-symbol.md",
