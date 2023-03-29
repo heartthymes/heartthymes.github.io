@@ -8,7 +8,7 @@
 ---
 *Other courses on the side*
 - [a. Modern TypeScript Full Course (paid)](#modern-typescript-full-course) 
-- [b. Getting Started with Go (paid)]()
+- [b. Getting Started with Go (paid)](#getting-started-with-go)
 
 ### Preface
 Welcome!  

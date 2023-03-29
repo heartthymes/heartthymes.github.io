@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-29.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-29.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-29.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-29.md"
+                "file": "index.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "504365a760e8b899",
   "lastOpenFiles": [
-    "2023-03-27.md",
     "2023-03-29.md",
+    "2023-03-27.md",
     "notes/courses/go-lang/variables.md",
     "index.md",
     "notes/courses/go-lang/workspaces-and-packages.md",
