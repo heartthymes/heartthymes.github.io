@@ -1,32 +1,19 @@
 {
   "main": {
-    "id": "544dce1f704866a8",
+    "id": "d99c55471e8f0891",
     "type": "split",
     "children": [
       {
-        "id": "c9f96cf7b7f5129e",
+        "id": "b23c4fd37a7f31d6",
         "type": "tabs",
         "children": [
           {
-            "id": "504365a760e8b899",
+            "id": "f8d01e2cc3436fa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b4d7a43594d24dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "2023-03-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -39,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d113c8190b9c2eef",
+    "id": "3da179995e72cb80",
     "type": "split",
     "children": [
       {
-        "id": "b2c7bb7d80c8bccc",
+        "id": "bf53a593b3f9576d",
         "type": "tabs",
         "children": [
           {
-            "id": "822cdb83fc6f2ddd",
+            "id": "c2c1926ff545f25d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,12 +44,12 @@
             }
           },
           {
-            "id": "bbdc43ce325cb7d0",
+            "id": "3d6640d711038453",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "####",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +59,7 @@
             }
           },
           {
-            "id": "c2ae69d5b65dd95d",
+            "id": "e1a2a8c30369ff81",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -83,23 +70,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 300
   },
   "right": {
-    "id": "40b1bc4fb52a5d8a",
+    "id": "4b2052aa7f32e325",
     "type": "split",
     "children": [
       {
-        "id": "28567d291a0ecc8c",
+        "id": "d00c6c534ad1f919",
         "type": "tabs",
         "children": [
           {
-            "id": "42c09b5014001d8d",
+            "id": "19540bb8e144f7f7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "2023-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +98,19 @@
             }
           },
           {
-            "id": "8b8e5ef4cfde25c5",
+            "id": "d29bdc2df9b61d9f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "2023-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "42b144d7dc4269a0",
+            "id": "dca94fbf327ce4d6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,12 +121,12 @@
             }
           },
           {
-            "id": "6d8ae143f76623d2",
+            "id": "d723a2d0c41c83d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "2023-03-27.md"
               }
             }
           }
@@ -147,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,43 +147,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "504365a760e8b899",
+  "active": "f8d01e2cc3436fa1",
   "lastOpenFiles": [
-    "2023-03-29.md",
-    "2023-03-27.md",
-    "notes/courses/go-lang/variables.md",
-    "index.md",
-    "notes/courses/go-lang/workspaces-and-packages.md",
-    "notes/courses/go-lang/variable-scope.md",
-    "notes/courses/go-lang/variable-initialization.md",
-    "notes/courses/go-lang/string-packets.md",
-    "notes/courses/go-lang/pointers.md",
-    "notes/courses/go-lang/ints-floats-strings.md",
-    "notes/courses/go-lang/go-tool.md",
-    "notes/courses/go-lang/garbage-collection.md",
-    "notes/courses/go-lang/deallocating-memory.md",
-    "notes/courses/go-lang/control-flow-scan.md",
-    "notes/courses/go-lang/control-flow.md",
-    "notes/courses/go-lang/constants.md",
-    "notes/courses/go-lang/comments-printing-integers.md",
-    "notes/courses/go-lang/go-documentation.md",
-    "notes/courses/python-for-everybody/loops-and-iteration.md",
-    "notes/courses/python-for-everybody/object-oriented-programming.md",
-    "2023-03-22.md",
-    "2023-03-19.md",
-    "2023-03-09.md",
-    "2023-03-08.md",
-    "notes/courses/go-lang",
-    "notes/courses/python-for-everybody/regular-expressions.md",
-    "notes/courses/python-for-everybody/why-program.md",
-    "files/k8s-architecture.png",
-    "files/k8s-architecture 1.png",
-    "notes/old",
-    "canvas/Test canvas.canvas",
-    "notes/courses/modern-typescript",
-    "notes/courses/python-for-everybody",
-    "notes/courses",
-    "canvas",
-    "templates"
+    "2023-03-29.md"
   ]
 }
