@@ -14,3 +14,4 @@ docker ps
 sudo docker commit -p container_id htubuntu
 ```
 
+## You don't need a docker if you share the repo with another account
