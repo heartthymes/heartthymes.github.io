@@ -246,33 +246,41 @@ p.p.s We're also playing games. :d
 - [x] [Constants](notes/courses/go-lang/constants.md)
 - [x] [Control flow](notes/courses/go-lang/control-flow.md)
 - [x] [Control flow, scan](notes/courses/go-lang/control-flow-scan.md)
-- [ ] Arrays
-- [ ] Slices
+- [x] [Arrays](arrays.md)
+- [x] [Slices](slices.md)
 - [ ] Variable slices
 - [ ] Hash tables
-- [ ] Maps
-- [ ] Structs
+- [x] [Maps](maps.md)
+- [x] [Structs](structs.md)
 - [ ] RFCs
 - [ ] JSON
 - [ ] File Access, ioutil
 - [ ] File Access, os
-- [ ] Function parameters and return values
-- [ ] Call by value, reference
-- [ ] Passing Arrays and Slices
+- [x] [Why use functions?](why-use-functions.md)
+- [x] [Function parameters and return values](function-parameters-and-return.md)
+- [x] [Call by value, reference](call-by-value-reference.md)
+- [x] [Passing Arrays and Slices](passing-arrays-and-slices.md)
 - [ ] Well-Written Functions
 - [ ] Guidelines for Functions
 - [ ] Function Guidelines
-- [ ] First-Class Values
-- [ ] Returning Functions
-- [ ] Variadic and Deferred
-- [ ] Classes and Encapsulation
-- [ ] Support for Classes
-- [ ] Encapsulation
-- [ ] Point Receivers
-- [ ] Point Receivers, Referencing, Dereferencing
-- [ ] Polymorphism
-- [ ] Interfaces
-- [ ] Interface vs Concrete Types
-- [ ] Using Interfaces
-- [ ] Type Assertions
-- [ ] Error Handling
+- [x] [First-Class Values](first-class-values.md)
+- [x] [Returning Functions](returning-functions.md)
+- [x] [Variadic and Deferred](variadic-and-deferred.md)
+- [x] [Support for classes 1](support-for-classes-1.md)
+- [x] [Support for classes 2](support-for-classes-2.md)
+- [ ] [Encapsulation](encapsulation.md)
+- [ ] [Controlling access](controlling-access.md)
+- [ ] [Point Receivers](pointer-receivers.md)
+- [ ] [Point Receivers, Referencing, Dereferencing](pointer-receivers-referencing-dereferencing.md)
+- [ ] [Polymorphism](polymorphism.md)
+- [ ] [Interfaces](interfaces.md)
+- [ ] [Interface vs Concrete Types](interface-vs-concrete-types.md)
+- [ ] [Using Interfaces](using-interfaces.md)
+- [ ] [Type Assertions](type-assertions.md)
+- [ ] [Error Handling](error-handling.md)
+- [ ] [Threads in GO](threads-in-go.md)
+- [ ] [Blocking on channels](blocking-on-channels.md)
+- [ ] [Mutual execution](mutual-execution.md)
+- [ ] [Mutex](mutex.md)
+- [ ] [Once synchronization](once-synchronization.md)
+- [ ] [Deadlock](deadlock.md)
