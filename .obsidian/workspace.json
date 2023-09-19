@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/kp-migration.md",
+                "file": "docs/notes/kp-migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/kp-migration.md",
+                "file": "docs/notes/kp-migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/notes/kp-migration.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/notes/kp-migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/notes/kp-migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/notes/kp-migration.md"
               }
             }
           },
@@ -205,13 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73bd4f115936717c",
+  "active": "3f6697763556a3b7",
   "lastOpenFiles": [
+    "docs/index.md",
     "README.md",
     "Keypoolig.md",
-    "docs/index.md",
     "docs/notes.md",
-    "docs/kp-migration.md",
+    "docs/notes/kp-migration.md",
     "docs/notes/other/onboarding.md",
     "docs/notes/deutsche sprache/4 homework.md",
     "docs/notes/deutsche sprache/3. homework.md",
