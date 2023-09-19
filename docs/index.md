@@ -284,3 +284,7 @@ p.p.s We're also playing games. :d
 - [ ] [Mutex](mutex.md)
 - [ ] [Once synchronization](once-synchronization.md)
 - [ ] [Deadlock](deadlock.md)
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] [kp-migration](kp-migration.md)

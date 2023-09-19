@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/kp-migration.md"
+                "file": "docs/index.md"
               }
             }
           },
@@ -205,13 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f6697763556a3b7",
+  "active": "73bd4f115936717c",
   "lastOpenFiles": [
+    "docs/notes/kp-migration.md",
     "docs/index.md",
     "README.md",
     "Keypoolig.md",
     "docs/notes.md",
-    "docs/notes/kp-migration.md",
     "docs/notes/other/onboarding.md",
     "docs/notes/deutsche sprache/4 homework.md",
     "docs/notes/deutsche sprache/3. homework.md",
