@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "c21318a2a89d91c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fd979117eb4329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fda202b7ceb1ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/other/onboarding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9393e22b969fc5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/kp-migration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "894e64dc7278ac45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/kp-migration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b0540ba6602f2d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keypoolig.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73bd4f115936717c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53a84c9e66c002af",
+    "type": "split",
+    "children": [
+      {
+        "id": "5636b67bd80e7d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6697763556a3b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea1bd8d8004cc906",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a82aee3db45bdc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "876240c72dbc76cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9aafd0ef16a2537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7dfbd422401004",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0948e97ae17dbcf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af5a1489481d0730",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f8f8c692422f2a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/index.md"
+              }
+            }
+          },
+          {
+            "id": "6edee32029ada5c2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "73bd4f115936717c",
+  "lastOpenFiles": [
+    "README.md",
+    "Keypoolig.md",
+    "docs/index.md",
+    "docs/notes.md",
+    "docs/kp-migration.md",
+    "docs/notes/other/onboarding.md",
+    "docs/notes/deutsche sprache/4 homework.md",
+    "docs/notes/deutsche sprache/3. homework.md",
+    "docs/notes/deutsche sprache/2. homework.md",
+    "docs/notes/deutsche sprache/dictionary.md",
+    "docs/notes/deutsche sprache/2.md",
+    "docs/notes/deutsche sprache/1. homework.md",
+    "docs/notes/other/docker.md",
+    "docs/notes/other/sec/overthewire/bandit/Bandit.md",
+    "docs/notes/deutsche sprache/1..md",
+    "docs/notes/other/sec/overthewire/bandit",
+    "docs/notes/other/sec/overthewire",
+    "docs/notes/other/sec",
+    "docs/2023-05-09.md",
+    "docs/notes/deutsche sprache",
+    "docs/notes/other",
+    "docs/notes/courses/go-lang/arrays.md",
+    "docs/2023-05-10.md",
+    "docs/notes/metnotes",
+    "docs/README.md",
+    "zettelkasten.md",
+    "docs/2023-05-17.md",
+    "docs/notes/other/rust.md",
+    "docs/2023-04-25.md",
+    "docs/notes/courses/go-lang/mutex.md",
+    "docs/2023-03-29.md",
+    "docs/2023-03-27.md",
+    "docs/notes/go-lang"
+  ]
+}
