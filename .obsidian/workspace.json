@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/notes/kp-migration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,12 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73bd4f115936717c",
+  "active": "894e64dc7278ac45",
   "lastOpenFiles": [
     "docs/notes/kp-migration.md",
+    "Keypoolig.md",
     "docs/index.md",
     "README.md",
-    "Keypoolig.md",
     "docs/notes.md",
     "docs/notes/other/onboarding.md",
     "docs/notes/deutsche sprache/4 homework.md",

@@ -287,4 +287,4 @@ p.p.s We're also playing games. :d
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] [kp-migration](kp-migration.md)
+- [ ] [kp-migration](/notes/kp-migration.md)
