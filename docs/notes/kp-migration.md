@@ -1,6 +1,8 @@
 ---
 tags:
   - testTag
+cssclasses:
+  - main
 ---
 
 1. Make sure required schemas for tenants are created using Terraform
