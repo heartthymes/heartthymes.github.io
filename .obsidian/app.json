@@ -1,7 +1,12 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "livePreview": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "readableLineLength": false
 }

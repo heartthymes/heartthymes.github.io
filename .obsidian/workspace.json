@@ -8,67 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fda202b7ceb1ef5",
+            "id": "73bd4f115936717c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/other/onboarding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9393e22b969fc5a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/notes/kp-migration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "894e64dc7278ac45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/notes/kp-migration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b0540ba6602f2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/notes/courses/go-lang/pointers.md",
+                "file": "docs/notes/deutsche sprache/2.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "73bd4f115936717c",
+            "id": "eaacd9a41a765968",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/notes/deutsche sprache/2.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f1bd821974dd1091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/deutsche sprache/4 homework.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ad32de2c737875bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/metro/curl.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/notes/metro/curl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/kp-migration.md",
+                "file": "docs/notes/metro/curl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/kp-migration.md"
+                "file": "docs/notes/metro/curl.md"
               }
             }
           },
@@ -205,23 +193,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73bd4f115936717c",
+  "active": "ad32de2c737875bf",
   "lastOpenFiles": [
-    "docs/notes/courses/go-lang/pointers.md",
     "docs/notes/kp-migration.md",
+    "docs/templates/note.md",
+    "docs/templates/list.md",
+    "Keypoolig.md",
+    "docs/notes/metro/curl.md",
+    "docs/notes/deutsche sprache/4 homework.md",
+    "docs/notes/deutsche sprache/2.md",
+    "docs/notes/metro",
+    "docs/notes/deutsche sprache/dictionary.md",
+    "docs/notes/other/onboarding.md",
+    "docs/notes/courses/go-lang/pointers.md",
     "notes/kp-migration.md",
     "docs/index.md",
-    "docs/templates/note.md",
     "docs/notes.md",
-    "Keypoolig.md",
     "notes",
     "README.md",
-    "docs/notes/other/onboarding.md",
-    "docs/notes/deutsche sprache/4 homework.md",
     "docs/notes/deutsche sprache/3. homework.md",
     "docs/notes/deutsche sprache/2. homework.md",
-    "docs/notes/deutsche sprache/dictionary.md",
-    "docs/notes/deutsche sprache/2.md",
     "docs/notes/deutsche sprache/1. homework.md",
     "docs/notes/other/docker.md",
     "docs/notes/other/sec/overthewire/bandit/Bandit.md",
@@ -238,8 +229,6 @@
     "docs/README.md",
     "zettelkasten.md",
     "docs/2023-05-17.md",
-    "docs/notes/other/rust.md",
-    "docs/2023-04-25.md",
     "docs/notes/go-lang"
   ]
 }
