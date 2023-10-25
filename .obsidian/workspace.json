@@ -193,13 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad32de2c737875bf",
+  "active": "3f6697763556a3b7",
   "lastOpenFiles": [
+    "docs/notes/courses/Untitled.md",
+    "docs/notes/metro/curl.md",
     "docs/notes/kp-migration.md",
     "docs/templates/note.md",
     "docs/templates/list.md",
     "Keypoolig.md",
-    "docs/notes/metro/curl.md",
     "docs/notes/deutsche sprache/4 homework.md",
     "docs/notes/deutsche sprache/2.md",
     "docs/notes/metro",
@@ -228,7 +229,6 @@
     "docs/notes/metnotes",
     "docs/README.md",
     "zettelkasten.md",
-    "docs/2023-05-17.md",
     "docs/notes/go-lang"
   ]
 }
